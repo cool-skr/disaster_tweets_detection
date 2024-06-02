@@ -22,3 +22,5 @@ libraries from the Transformers Library.
 The performance of the trained model on the test dataset is as follows:
 
 Accuracy: 76.74%
+
+We finished No 1 in the live competition.
